@@ -13,7 +13,8 @@ Razorpay-Clone is a visually stunning and responsive frontend web application cr
     CSS
     Tailwind CSS
 ### Contributing
-This project is intended to serve as a frontend showcase and does not require backend integration. However, contributions related to enhancing the UI/UX, optimizing styles, and refining responsiveness are welcome.
+This project is intended to serve as a frontend showcase and does not require backend integration. Contributions
+related to enhancing the UI/UX, optimizing styles, and refining responsiveness are not accepted or expected.
 
 ### Note
     This project is a personal showcase and reference. 
